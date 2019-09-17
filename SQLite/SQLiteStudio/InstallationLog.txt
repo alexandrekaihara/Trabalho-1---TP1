@@ -1,0 +1,881 @@
+************************************* Invoked: pt. lip 27 00:14:00 2018
+[0] Arguments: c:\temp\sqls-installer\InstallSQLiteStudio-3.2.1.exe, TargetDir=c:/temp/SQLiteStudio
+[4] Operations sanity check succeeded.
+[570] Loaded control script ":/metadata/installer-config/controller_qs.qs"
+[570] Using control script: ":/metadata/installer-config/controller_qs.qs"
+[576] Control script callback "IntroductionPageCallback" does not exist.
+[42464] Warning: :20: TypeError: Cannot call method 'connect' of undefined (:20, )
+[42468] Control script callback "TargetDirectoryPageCallback" does not exist.
+[44687] Control script callback "ComponentSelectionPageCallback" does not exist.
+[45799] Tmp and install directories are on the same volume. Volume mount point: "C:\\" Free space available: "93.86 GiB"
+[45799] Installation space required: "47.66 MiB" Temporary space required: "0.00 bytes" Local repository size: "0.00 bytes"
+[45799] Control script callback "ReadyForInstallationPageCallback" does not exist.
+[46475] Control script callback "PerformInstallationPageCallback" does not exist.
+[46506] backup  operation: Mkdir
+[46506] 	- arguments: C:/temp/SQLiteStudio
+[46506] Done
+[46506] perform  operation: Mkdir
+[46506] 	- arguments: C:/temp/SQLiteStudio
+[46507] Done
+[46507] Install size: 22 components
+[46521] backup io.qt operation: Extract
+[46521] 	- arguments: installer://io.qt/5.10.0qt.7z, C:\temp\SQLiteStudio
+[46521] Done
+[46521] perform io.qt operation: Extract
+[46521] 	- arguments: installer://io.qt/5.10.0qt.7z, C:\temp\SQLiteStudio
+[47186] Done
+[47187] backup pl.com.salsoft.sqlitestudio operation: Extract
+[47187] 	- arguments: installer://pl.com.salsoft.sqlitestudio/3.2.1sqlitestudio.7z, C:\temp\SQLiteStudio
+[47187] Done
+[47187] perform pl.com.salsoft.sqlitestudio operation: Extract
+[47187] 	- arguments: installer://pl.com.salsoft.sqlitestudio/3.2.1sqlitestudio.7z, C:\temp\SQLiteStudio
+[47392] Done
+[47395] backup pl.com.salsoft.sqlitestudio.plugins.dbandroid operation: Extract
+[47395] 	- arguments: installer://pl.com.salsoft.sqlitestudio.plugins.dbandroid/1.2.1DbAndroid.7z, C:\temp\SQLiteStudio
+[47395] Done
+[47395] perform pl.com.salsoft.sqlitestudio.plugins.dbandroid operation: Extract
+[47395] 	- arguments: installer://pl.com.salsoft.sqlitestudio.plugins.dbandroid/1.2.1DbAndroid.7z, C:\temp\SQLiteStudio
+[47404] Done
+[47405] backup pl.com.salsoft.sqlitestudio.plugins.csvexport operation: Extract
+[47405] 	- arguments: installer://pl.com.salsoft.sqlitestudio.plugins.csvexport/1.0.5CsvExport.7z, C:\temp\SQLiteStudio
+[47405] Done
+[47405] perform pl.com.salsoft.sqlitestudio.plugins.csvexport operation: Extract
+[47405] 	- arguments: installer://pl.com.salsoft.sqlitestudio.plugins.csvexport/1.0.5CsvExport.7z, C:\temp\SQLiteStudio
+[47408] Done
+[47410] backup pl.com.salsoft.sqlitestudio.plugins.csvimport operation: Extract
+[47410] 	- arguments: installer://pl.com.salsoft.sqlitestudio.plugins.csvimport/1.0.5CsvImport.7z, C:\temp\SQLiteStudio
+[47410] Done
+[47410] perform pl.com.salsoft.sqlitestudio.plugins.csvimport operation: Extract
+[47410] 	- arguments: installer://pl.com.salsoft.sqlitestudio.plugins.csvimport/1.0.5CsvImport.7z, C:\temp\SQLiteStudio
+[47413] Done
+[47414] backup pl.com.salsoft.sqlitestudio.plugins.configmigration operation: Extract
+[47414] 	- arguments: installer://pl.com.salsoft.sqlitestudio.plugins.configmigration/1.0.3ConfigMigration.7z, C:\temp\SQLiteStudio
+[47414] Done
+[47414] perform pl.com.salsoft.sqlitestudio.plugins.configmigration operation: Extract
+[47414] 	- arguments: installer://pl.com.salsoft.sqlitestudio.plugins.configmigration/1.0.3ConfigMigration.7z, C:\temp\SQLiteStudio
+[47420] Done
+[47421] backup pl.com.salsoft.sqlitestudio.plugins.htmlexport operation: Extract
+[47421] 	- arguments: installer://pl.com.salsoft.sqlitestudio.plugins.htmlexport/1.0.2HtmlExport.7z, C:\temp\SQLiteStudio
+[47421] Done
+[47421] perform pl.com.salsoft.sqlitestudio.plugins.htmlexport operation: Extract
+[47421] 	- arguments: installer://pl.com.salsoft.sqlitestudio.plugins.htmlexport/1.0.2HtmlExport.7z, C:\temp\SQLiteStudio
+[47425] Done
+[47427] backup pl.com.salsoft.sqlitestudio.plugins.multieditorimage operation: Extract
+[47427] 	- arguments: installer://pl.com.salsoft.sqlitestudio.plugins.multieditorimage/1.0.0MultiEditorImage.7z, C:\temp\SQLiteStudio
+[47427] Done
+[47427] perform pl.com.salsoft.sqlitestudio.plugins.multieditorimage operation: Extract
+[47427] 	- arguments: installer://pl.com.salsoft.sqlitestudio.plugins.multieditorimage/1.0.0MultiEditorImage.7z, C:\temp\SQLiteStudio
+[47430] Done
+[47431] backup pl.com.salsoft.sqlitestudio.plugins.jsonexport operation: Extract
+[47431] 	- arguments: installer://pl.com.salsoft.sqlitestudio.plugins.jsonexport/1.0.2JsonExport.7z, C:\temp\SQLiteStudio
+[47431] Done
+[47431] perform pl.com.salsoft.sqlitestudio.plugins.jsonexport operation: Extract
+[47431] 	- arguments: installer://pl.com.salsoft.sqlitestudio.plugins.jsonexport/1.0.2JsonExport.7z, C:\temp\SQLiteStudio
+[47435] Done
+[47436] backup pl.com.salsoft.sqlitestudio.plugins.pdfexport operation: Extract
+[47436] 	- arguments: installer://pl.com.salsoft.sqlitestudio.plugins.pdfexport/1.0.3PdfExport.7z, C:\temp\SQLiteStudio
+[47436] Done
+[47436] perform pl.com.salsoft.sqlitestudio.plugins.pdfexport operation: Extract
+[47436] 	- arguments: installer://pl.com.salsoft.sqlitestudio.plugins.pdfexport/1.0.3PdfExport.7z, C:\temp\SQLiteStudio
+[47442] Done
+[47443] backup pl.com.salsoft.sqlitestudio.plugins.printing operation: Extract
+[47443] 	- arguments: installer://pl.com.salsoft.sqlitestudio.plugins.printing/1.0.3Printing.7z, C:\temp\SQLiteStudio
+[47443] Done
+[47443] perform pl.com.salsoft.sqlitestudio.plugins.printing operation: Extract
+[47443] 	- arguments: installer://pl.com.salsoft.sqlitestudio.plugins.printing/1.0.3Printing.7z, C:\temp\SQLiteStudio
+[47446] Done
+[47448] backup pl.com.salsoft.sqlitestudio.plugins.regexpimport operation: Extract
+[47448] 	- arguments: installer://pl.com.salsoft.sqlitestudio.plugins.regexpimport/1.0.2RegExpImport.7z, C:\temp\SQLiteStudio
+[47448] Done
+[47448] perform pl.com.salsoft.sqlitestudio.plugins.regexpimport operation: Extract
+[47448] 	- arguments: installer://pl.com.salsoft.sqlitestudio.plugins.regexpimport/1.0.2RegExpImport.7z, C:\temp\SQLiteStudio
+[47451] Done
+[47452] backup pl.com.salsoft.sqlitestudio.plugins.sqlenterpriseformatter operation: Extract
+[47452] 	- arguments: installer://pl.com.salsoft.sqlitestudio.plugins.sqlenterpriseformatter/1.0.6SqlEnterpriseFormatter.7z, C:\temp\SQLiteStudio
+[47452] Done
+[47452] perform pl.com.salsoft.sqlitestudio.plugins.sqlenterpriseformatter operation: Extract
+[47452] 	- arguments: installer://pl.com.salsoft.sqlitestudio.plugins.sqlenterpriseformatter/1.0.6SqlEnterpriseFormatter.7z, C:\temp\SQLiteStudio
+[47460] Done
+[47461] backup pl.com.salsoft.sqlitestudio.plugins.sqlexport operation: Extract
+[47461] 	- arguments: installer://pl.com.salsoft.sqlitestudio.plugins.sqlexport/1.1.2SqlExport.7z, C:\temp\SQLiteStudio
+[47461] Done
+[47461] perform pl.com.salsoft.sqlitestudio.plugins.sqlexport operation: Extract
+[47461] 	- arguments: installer://pl.com.salsoft.sqlitestudio.plugins.sqlexport/1.1.2SqlExport.7z, C:\temp\SQLiteStudio
+[47465] Done
+[47467] backup pl.com.salsoft.sqlitestudio.plugins.sqlformattersimple operation: Extract
+[47467] 	- arguments: installer://pl.com.salsoft.sqlitestudio.plugins.sqlformattersimple/1.0.1SqlFormatterSimple.7z, C:\temp\SQLiteStudio
+[47467] Done
+[47467] perform pl.com.salsoft.sqlitestudio.plugins.sqlformattersimple operation: Extract
+[47467] 	- arguments: installer://pl.com.salsoft.sqlitestudio.plugins.sqlformattersimple/1.0.1SqlFormatterSimple.7z, C:\temp\SQLiteStudio
+[47470] Done
+[47471] backup pl.com.salsoft.sqlitestudio.plugins.dbsqlitecipher operation: Extract
+[47471] 	- arguments: installer://pl.com.salsoft.sqlitestudio.plugins.dbsqlitecipher/1.1.1DbSqliteCipher.7z, C:\temp\SQLiteStudio
+[47471] Done
+[47471] perform pl.com.salsoft.sqlitestudio.plugins.dbsqlitecipher operation: Extract
+[47471] 	- arguments: installer://pl.com.salsoft.sqlitestudio.plugins.dbsqlitecipher/1.1.1DbSqliteCipher.7z, C:\temp\SQLiteStudio
+[47495] Done
+[47497] backup pl.com.salsoft.sqlitestudio.plugins.dbsqlite2 operation: Extract
+[47497] 	- arguments: installer://pl.com.salsoft.sqlitestudio.plugins.dbsqlite2/1.0.6DbSqlite2.7z, C:\temp\SQLiteStudio
+[47497] Done
+[47497] perform pl.com.salsoft.sqlitestudio.plugins.dbsqlite2 operation: Extract
+[47497] 	- arguments: installer://pl.com.salsoft.sqlitestudio.plugins.dbsqlite2/1.0.6DbSqlite2.7z, C:\temp\SQLiteStudio
+[47512] Done
+[47514] backup pl.com.salsoft.sqlitestudio.plugins.dbsqlitesystemdata operation: Extract
+[47514] 	- arguments: installer://pl.com.salsoft.sqlitestudio.plugins.dbsqlitesystemdata/1.0.0DbSqliteSystemData.7z, C:\temp\SQLiteStudio
+[47514] Done
+[47514] perform pl.com.salsoft.sqlitestudio.plugins.dbsqlitesystemdata operation: Extract
+[47514] 	- arguments: installer://pl.com.salsoft.sqlitestudio.plugins.dbsqlitesystemdata/1.0.0DbSqliteSystemData.7z, C:\temp\SQLiteStudio
+[47544] Done
+[47545] backup pl.com.salsoft.sqlitestudio.plugins.scriptingtcl operation: Extract
+[47545] 	- arguments: installer://pl.com.salsoft.sqlitestudio.plugins.scriptingtcl/1.0.3ScriptingTcl.7z, C:\temp\SQLiteStudio
+[47545] Done
+[47546] perform pl.com.salsoft.sqlitestudio.plugins.scriptingtcl operation: Extract
+[47546] 	- arguments: installer://pl.com.salsoft.sqlitestudio.plugins.scriptingtcl/1.0.3ScriptingTcl.7z, C:\temp\SQLiteStudio
+[47582] Done
+[47584] backup pl.com.salsoft.sqlitestudio.plugins.dbsqlitewx operation: Extract
+[47584] 	- arguments: installer://pl.com.salsoft.sqlitestudio.plugins.dbsqlitewx/1.0.1DbSqliteWx.7z, C:\temp\SQLiteStudio
+[47584] Done
+[47584] perform pl.com.salsoft.sqlitestudio.plugins.dbsqlitewx operation: Extract
+[47584] 	- arguments: installer://pl.com.salsoft.sqlitestudio.plugins.dbsqlitewx/1.0.1DbSqliteWx.7z, C:\temp\SQLiteStudio
+[47617] Done
+[47619] backup pl.com.salsoft.sqlitestudio.plugins.xmlexport operation: Extract
+[47619] 	- arguments: installer://pl.com.salsoft.sqlitestudio.plugins.xmlexport/1.0.2XmlExport.7z, C:\temp\SQLiteStudio
+[47619] Done
+[47619] perform pl.com.salsoft.sqlitestudio.plugins.xmlexport operation: Extract
+[47619] 	- arguments: installer://pl.com.salsoft.sqlitestudio.plugins.xmlexport/1.0.2XmlExport.7z, C:\temp\SQLiteStudio
+[47623] Done
+[47629] Writing maintenance tool: "C:\\temp\\SQLiteStudio/UpdateSQLiteStudio.exe.new"
+[47682] Wrote permissions for maintenance tool.
+[47741] Maintenance tool restart: false.
+[47745] Warning: QString::arg: Argument missing: Run SQLiteStudio, SQLiteStudio
+[47745] Control script callback "FinishedPageCallback" does not exist.
+************************************* Invoked: seg mai 6 09:41:02 2019
+[0] Operations sanity check succeeded.
+[15574] addDownloadable "CsvExport.7z"
+[15574] addDownloadable "DbSqliteSystemData.7z"
+[15574] addDownloadable "ConfigMigration.7z"
+[15574] addDownloadable "Printing.7z"
+[15574] addDownloadable "ScriptingTcl.7z"
+[15574] addDownloadable "CsvImport.7z"
+[15575] addDownloadable "qt.7z"
+[15575] addDownloadable "MultiEditorImage.7z"
+[15575] addDownloadable "DbAndroid.7z"
+[15575] addDownloadable "RegExpImport.7z"
+[15575] addDownloadable "SqlEnterpriseFormatter.7z"
+[15576] addDownloadable "DbSqliteWx.7z"
+[15576] addDownloadable "SqlExport.7z"
+[15576] addDownloadable "sqlitestudio.7z"
+[15576] addDownloadable "XmlExport.7z"
+[15577] addDownloadable "PdfExport.7z"
+[15577] addDownloadable "DbSqliteCipher.7z"
+[15577] addDownloadable "SqlFormatterSimple.7z"
+[15577] addDownloadable "HtmlExport.7z"
+[15578] addDownloadable "DbSqlite2.7z"
+[15578] addDownloadable "JsonExport.7z"
+************************************* Invoked: seg mai 6 09:48:09 2019
+[0] Operations sanity check succeeded.
+[6932] addDownloadable "qt.7z"
+[6932] addDownloadable "DbSqlite2.7z"
+[6932] addDownloadable "MultiEditorImage.7z"
+[6932] addDownloadable "XmlExport.7z"
+[6932] addDownloadable "DbSqliteWx.7z"
+[6932] addDownloadable "DbSqliteSystemData.7z"
+[6932] addDownloadable "HtmlExport.7z"
+[6932] addDownloadable "PdfExport.7z"
+[6933] addDownloadable "JsonExport.7z"
+[6933] addDownloadable "DbSqliteCipher.7z"
+[6933] addDownloadable "RegExpImport.7z"
+[6933] addDownloadable "CsvExport.7z"
+[6933] addDownloadable "Printing.7z"
+[6933] addDownloadable "CsvImport.7z"
+[6933] addDownloadable "SqlExport.7z"
+[6933] addDownloadable "SqlFormatterSimple.7z"
+[6933] addDownloadable "ScriptingTcl.7z"
+[6934] addDownloadable "sqlitestudio.7z"
+[6934] addDownloadable "DbAndroid.7z"
+[6934] addDownloadable "SqlEnterpriseFormatter.7z"
+[6934] addDownloadable "ConfigMigration.7z"
+************************************* Invoked: seg mai 6 09:56:54 2019
+[0] Operations sanity check succeeded.
+[8559] addDownloadable "CsvImport.7z"
+[8559] addDownloadable "DbSqliteSystemData.7z"
+[8559] addDownloadable "DbAndroid.7z"
+[8559] addDownloadable "SqlFormatterSimple.7z"
+[8559] addDownloadable "SqlEnterpriseFormatter.7z"
+[8559] addDownloadable "qt.7z"
+[8559] addDownloadable "HtmlExport.7z"
+[8559] addDownloadable "XmlExport.7z"
+[8560] addDownloadable "ScriptingTcl.7z"
+[8560] addDownloadable "RegExpImport.7z"
+[8560] addDownloadable "sqlitestudio.7z"
+[8560] addDownloadable "CsvExport.7z"
+[8560] addDownloadable "DbSqlite2.7z"
+[8560] addDownloadable "DbSqliteCipher.7z"
+[8560] addDownloadable "JsonExport.7z"
+[8560] addDownloadable "DbSqliteWx.7z"
+[8560] addDownloadable "PdfExport.7z"
+[8561] addDownloadable "Printing.7z"
+[8561] addDownloadable "ConfigMigration.7z"
+[8561] addDownloadable "SqlExport.7z"
+[8561] addDownloadable "MultiEditorImage.7z"
+************************************* Invoked: seg mai 6 10:44:52 2019
+[0] Operations sanity check succeeded.
+[5859] addDownloadable "DbSqlite2.7z"
+[5859] addDownloadable "JsonExport.7z"
+[5859] addDownloadable "MultiEditorImage.7z"
+[5859] addDownloadable "SqlEnterpriseFormatter.7z"
+[5859] addDownloadable "DbSqliteWx.7z"
+[5860] addDownloadable "sqlitestudio.7z"
+[5860] addDownloadable "PdfExport.7z"
+[5860] addDownloadable "SqlExport.7z"
+[5860] addDownloadable "DbAndroid.7z"
+[5860] addDownloadable "CsvImport.7z"
+[5860] addDownloadable "SqlFormatterSimple.7z"
+[5860] addDownloadable "qt.7z"
+[5860] addDownloadable "RegExpImport.7z"
+[5860] addDownloadable "HtmlExport.7z"
+[5861] addDownloadable "ScriptingTcl.7z"
+[5861] addDownloadable "XmlExport.7z"
+[5861] addDownloadable "Printing.7z"
+[5861] addDownloadable "DbSqliteSystemData.7z"
+[5861] addDownloadable "ConfigMigration.7z"
+[5861] addDownloadable "CsvExport.7z"
+[5861] addDownloadable "DbSqliteCipher.7z"
+************************************* Invoked: ter mai 14 10:34:49 2019
+[0] Operations sanity check succeeded.
+[10198] addDownloadable "DbAndroid.7z"
+[10199] addDownloadable "XmlExport.7z"
+[10205] addDownloadable "qt.7z"
+[10206] addDownloadable "DbSqlite2.7z"
+[10206] addDownloadable "SqlExport.7z"
+[10206] addDownloadable "DbSqliteSystemData.7z"
+[10207] addDownloadable "RegExpImport.7z"
+[10207] addDownloadable "CsvImport.7z"
+[10208] addDownloadable "ConfigMigration.7z"
+[10208] addDownloadable "DbSqliteWx.7z"
+[10209] addDownloadable "sqlitestudio.7z"
+[10209] addDownloadable "SqlEnterpriseFormatter.7z"
+[10210] addDownloadable "MultiEditorImage.7z"
+[10211] addDownloadable "JsonExport.7z"
+[10212] addDownloadable "SqlFormatterSimple.7z"
+[10212] addDownloadable "Printing.7z"
+[10213] addDownloadable "CsvExport.7z"
+[10213] addDownloadable "HtmlExport.7z"
+[10214] addDownloadable "PdfExport.7z"
+[10214] addDownloadable "ScriptingTcl.7z"
+[10214] addDownloadable "DbSqliteCipher.7z"
+************************************* Invoked: dom mai 19 20:26:17 2019
+[0] Operations sanity check succeeded.
+[5769] addDownloadable "Printing.7z"
+[5770] addDownloadable "HtmlExport.7z"
+[5770] addDownloadable "SqlEnterpriseFormatter.7z"
+[5771] addDownloadable "DbSqlite2.7z"
+[5773] addDownloadable "qt.7z"
+[5773] addDownloadable "CsvExport.7z"
+[5774] addDownloadable "RegExpImport.7z"
+[5774] addDownloadable "DbSqliteCipher.7z"
+[5774] addDownloadable "DbSqliteWx.7z"
+[5778] addDownloadable "ConfigMigration.7z"
+[5778] addDownloadable "MultiEditorImage.7z"
+[5779] addDownloadable "XmlExport.7z"
+[5785] addDownloadable "CsvImport.7z"
+[5786] addDownloadable "sqlitestudio.7z"
+[5787] addDownloadable "JsonExport.7z"
+[5788] addDownloadable "SqlExport.7z"
+[5788] addDownloadable "PdfExport.7z"
+[5789] addDownloadable "DbSqliteSystemData.7z"
+[5790] addDownloadable "DbAndroid.7z"
+[5790] addDownloadable "ScriptingTcl.7z"
+[5791] addDownloadable "SqlFormatterSimple.7z"
+************************************* Invoked: seg mai 20 10:50:41 2019
+[0] Operations sanity check succeeded.
+[4430] addDownloadable "DbAndroid.7z"
+[4430] addDownloadable "CsvExport.7z"
+[4430] addDownloadable "MultiEditorImage.7z"
+[4431] addDownloadable "HtmlExport.7z"
+[4431] addDownloadable "qt.7z"
+[4432] addDownloadable "Printing.7z"
+[4432] addDownloadable "sqlitestudio.7z"
+[4432] addDownloadable "ScriptingTcl.7z"
+[4432] addDownloadable "XmlExport.7z"
+[4432] addDownloadable "DbSqliteSystemData.7z"
+[4432] addDownloadable "SqlExport.7z"
+[4432] addDownloadable "SqlFormatterSimple.7z"
+[4432] addDownloadable "DbSqliteWx.7z"
+[4433] addDownloadable "PdfExport.7z"
+[4433] addDownloadable "RegExpImport.7z"
+[4433] addDownloadable "JsonExport.7z"
+[4433] addDownloadable "SqlEnterpriseFormatter.7z"
+[4433] addDownloadable "ConfigMigration.7z"
+[4433] addDownloadable "CsvImport.7z"
+[4433] addDownloadable "DbSqliteCipher.7z"
+[4434] addDownloadable "DbSqlite2.7z"
+************************************* Invoked: seg mai 20 10:53:49 2019
+[0] Operations sanity check succeeded.
+[4275] addDownloadable "HtmlExport.7z"
+[4275] addDownloadable "ScriptingTcl.7z"
+[4275] addDownloadable "DbSqliteCipher.7z"
+[4275] addDownloadable "qt.7z"
+[4275] addDownloadable "SqlEnterpriseFormatter.7z"
+[4276] addDownloadable "ConfigMigration.7z"
+[4276] addDownloadable "SqlFormatterSimple.7z"
+[4276] addDownloadable "CsvExport.7z"
+[4276] addDownloadable "DbSqlite2.7z"
+[4276] addDownloadable "DbSqliteSystemData.7z"
+[4276] addDownloadable "JsonExport.7z"
+[4276] addDownloadable "XmlExport.7z"
+[4276] addDownloadable "Printing.7z"
+[4276] addDownloadable "DbSqliteWx.7z"
+[4277] addDownloadable "RegExpImport.7z"
+[4277] addDownloadable "PdfExport.7z"
+[4277] addDownloadable "CsvImport.7z"
+[4277] addDownloadable "DbAndroid.7z"
+[4277] addDownloadable "MultiEditorImage.7z"
+[4277] addDownloadable "SqlExport.7z"
+[4278] addDownloadable "sqlitestudio.7z"
+************************************* Invoked: seg mai 20 11:09:24 2019
+[0] Operations sanity check succeeded.
+[4989] addDownloadable "DbSqliteCipher.7z"
+[4989] addDownloadable "PdfExport.7z"
+[4989] addDownloadable "sqlitestudio.7z"
+[4989] addDownloadable "ConfigMigration.7z"
+[4989] addDownloadable "JsonExport.7z"
+[4989] addDownloadable "DbAndroid.7z"
+[4989] addDownloadable "DbSqliteWx.7z"
+[4990] addDownloadable "SqlFormatterSimple.7z"
+[4990] addDownloadable "XmlExport.7z"
+[4990] addDownloadable "CsvExport.7z"
+[4990] addDownloadable "RegExpImport.7z"
+[4990] addDownloadable "HtmlExport.7z"
+[4990] addDownloadable "Printing.7z"
+[4990] addDownloadable "MultiEditorImage.7z"
+[4990] addDownloadable "SqlEnterpriseFormatter.7z"
+[4991] addDownloadable "CsvImport.7z"
+[4991] addDownloadable "qt.7z"
+[4991] addDownloadable "DbSqliteSystemData.7z"
+[4991] addDownloadable "DbSqlite2.7z"
+[4991] addDownloadable "ScriptingTcl.7z"
+[4991] addDownloadable "SqlExport.7z"
+************************************* Invoked: qua jan 23 01:23:48 2013
+[0] Operations sanity check succeeded.
+[6457] SSL error: "The certificate is not yet valid"
+[6457] SSL error: "The certificate is not yet valid"
+[6458] Network error while downloading 'https://sqlitestudio.pl/update-repo/windows/Updates.xml?273125069': SSL handshake failed.
+[6460] Cannot retrieve remote tree No package sources set for this application..
+************************************* Invoked: qua jan 23 02:24:57 2013
+[0] Operations sanity check succeeded.
+[3673] SSL error: "The certificate is not yet valid"
+[3673] SSL error: "The certificate is not yet valid"
+[3673] Network error while downloading 'https://sqlitestudio.pl/update-repo/windows/Updates.xml?684608310': SSL handshake failed.
+[3675] Cannot retrieve remote tree No package sources set for this application..
+************************************* Invoked: qua jan 23 00:22:58 2013
+[0] Operations sanity check succeeded.
+[4272] SSL error: "The certificate is not yet valid"
+[4272] SSL error: "The certificate is not yet valid"
+[4272] Network error while downloading 'https://sqlitestudio.pl/update-repo/windows/Updates.xml?210714038': SSL handshake failed.
+[4274] Cannot retrieve remote tree No package sources set for this application..
+************************************* Invoked: qua jan 23 00:27:40 2013
+[0] Operations sanity check succeeded.
+[11120] SSL error: "The certificate is not yet valid"
+[11120] SSL error: "The certificate is not yet valid"
+[11120] Network error while downloading 'https://sqlitestudio.pl/update-repo/windows/Updates.xml?921928704': SSL handshake failed.
+[11122] Cannot retrieve remote tree No package sources set for this application..
+************************************* Invoked: ter mai 21 21:52:53 2019
+[0] Operations sanity check succeeded.
+[37103] addDownloadable "RegExpImport.7z"
+[37103] addDownloadable "MultiEditorImage.7z"
+[37103] addDownloadable "DbSqliteWx.7z"
+[37104] addDownloadable "qt.7z"
+[37104] addDownloadable "XmlExport.7z"
+[37104] addDownloadable "SqlFormatterSimple.7z"
+[37105] addDownloadable "DbSqliteCipher.7z"
+[37105] addDownloadable "PdfExport.7z"
+[37105] addDownloadable "SqlExport.7z"
+[37105] addDownloadable "sqlitestudio.7z"
+[37105] addDownloadable "CsvExport.7z"
+[37105] addDownloadable "JsonExport.7z"
+[37105] addDownloadable "CsvImport.7z"
+[37105] addDownloadable "DbSqlite2.7z"
+[37105] addDownloadable "HtmlExport.7z"
+[37106] addDownloadable "ConfigMigration.7z"
+[37106] addDownloadable "SqlEnterpriseFormatter.7z"
+[37106] addDownloadable "DbSqliteSystemData.7z"
+[37106] addDownloadable "DbAndroid.7z"
+[37106] addDownloadable "ScriptingTcl.7z"
+[37106] addDownloadable "Printing.7z"
+************************************* Invoked: ter mai 21 21:56:33 2019
+[0] Operations sanity check succeeded.
+[24043] addDownloadable "RegExpImport.7z"
+[24043] addDownloadable "SqlEnterpriseFormatter.7z"
+[24044] addDownloadable "DbSqliteCipher.7z"
+[24044] addDownloadable "HtmlExport.7z"
+[24044] addDownloadable "ScriptingTcl.7z"
+[24044] addDownloadable "XmlExport.7z"
+[24045] addDownloadable "ConfigMigration.7z"
+[24045] addDownloadable "MultiEditorImage.7z"
+[24045] addDownloadable "DbSqliteSystemData.7z"
+[24045] addDownloadable "DbAndroid.7z"
+[24046] addDownloadable "CsvExport.7z"
+[24046] addDownloadable "SqlExport.7z"
+[24046] addDownloadable "JsonExport.7z"
+[24046] addDownloadable "PdfExport.7z"
+[24046] addDownloadable "sqlitestudio.7z"
+[24047] addDownloadable "CsvImport.7z"
+[24047] addDownloadable "DbSqliteWx.7z"
+[24047] addDownloadable "DbSqlite2.7z"
+[24048] addDownloadable "qt.7z"
+[24048] addDownloadable "Printing.7z"
+[24048] addDownloadable "SqlFormatterSimple.7z"
+************************************* Invoked: ter mai 21 22:11:37 2019
+[0] Operations sanity check succeeded.
+[79853] addDownloadable "DbSqliteSystemData.7z"
+[79853] addDownloadable "DbSqliteWx.7z"
+[79854] addDownloadable "sqlitestudio.7z"
+[79854] addDownloadable "HtmlExport.7z"
+[79854] addDownloadable "PdfExport.7z"
+[79854] addDownloadable "DbSqlite2.7z"
+[79854] addDownloadable "MultiEditorImage.7z"
+[79854] addDownloadable "JsonExport.7z"
+[79854] addDownloadable "ConfigMigration.7z"
+[79854] addDownloadable "DbSqliteCipher.7z"
+[79854] addDownloadable "CsvImport.7z"
+[79855] addDownloadable "CsvExport.7z"
+[79855] addDownloadable "DbAndroid.7z"
+[79855] addDownloadable "Printing.7z"
+[79855] addDownloadable "SqlEnterpriseFormatter.7z"
+[79855] addDownloadable "RegExpImport.7z"
+[79855] addDownloadable "SqlFormatterSimple.7z"
+[79855] addDownloadable "SqlExport.7z"
+[79855] addDownloadable "qt.7z"
+[79855] addDownloadable "ScriptingTcl.7z"
+[79856] addDownloadable "XmlExport.7z"
+************************************* Invoked: qua mai 22 08:19:47 2019
+[0] Operations sanity check succeeded.
+[6488] addDownloadable "XmlExport.7z"
+[6488] addDownloadable "DbSqliteSystemData.7z"
+[6489] addDownloadable "sqlitestudio.7z"
+[6489] addDownloadable "Printing.7z"
+[6489] addDownloadable "HtmlExport.7z"
+[6489] addDownloadable "MultiEditorImage.7z"
+[6489] addDownloadable "JsonExport.7z"
+[6489] addDownloadable "DbAndroid.7z"
+[6489] addDownloadable "CsvImport.7z"
+[6489] addDownloadable "CsvExport.7z"
+[6490] addDownloadable "DbSqliteCipher.7z"
+[6490] addDownloadable "SqlFormatterSimple.7z"
+[6490] addDownloadable "ConfigMigration.7z"
+[6490] addDownloadable "DbSqlite2.7z"
+[6490] addDownloadable "RegExpImport.7z"
+[6490] addDownloadable "DbSqliteWx.7z"
+[6491] addDownloadable "qt.7z"
+[6491] addDownloadable "PdfExport.7z"
+[6491] addDownloadable "ScriptingTcl.7z"
+[6491] addDownloadable "SqlExport.7z"
+[6491] addDownloadable "SqlEnterpriseFormatter.7z"
+************************************* Invoked: qua mai 22 09:16:07 2019
+[0] Operations sanity check succeeded.
+[5103] addDownloadable "PdfExport.7z"
+[5103] addDownloadable "DbSqliteSystemData.7z"
+[5103] addDownloadable "Printing.7z"
+[5103] addDownloadable "ConfigMigration.7z"
+[5103] addDownloadable "SqlFormatterSimple.7z"
+[5103] addDownloadable "XmlExport.7z"
+[5103] addDownloadable "DbSqlite2.7z"
+[5103] addDownloadable "ScriptingTcl.7z"
+[5104] addDownloadable "DbSqliteCipher.7z"
+[5104] addDownloadable "JsonExport.7z"
+[5104] addDownloadable "SqlExport.7z"
+[5104] addDownloadable "qt.7z"
+[5105] addDownloadable "DbAndroid.7z"
+[5105] addDownloadable "sqlitestudio.7z"
+[5105] addDownloadable "SqlEnterpriseFormatter.7z"
+[5105] addDownloadable "CsvExport.7z"
+[5105] addDownloadable "CsvImport.7z"
+[5105] addDownloadable "DbSqliteWx.7z"
+[5105] addDownloadable "RegExpImport.7z"
+[5105] addDownloadable "HtmlExport.7z"
+[5106] addDownloadable "MultiEditorImage.7z"
+************************************* Invoked: qua mai 22 09:37:51 2019
+[0] Operations sanity check succeeded.
+[7146] addDownloadable "HtmlExport.7z"
+[7146] addDownloadable "sqlitestudio.7z"
+[7146] addDownloadable "DbSqliteCipher.7z"
+[7146] addDownloadable "RegExpImport.7z"
+[7146] addDownloadable "CsvExport.7z"
+[7146] addDownloadable "DbSqliteSystemData.7z"
+[7146] addDownloadable "PdfExport.7z"
+[7146] addDownloadable "Printing.7z"
+[7147] addDownloadable "DbSqliteWx.7z"
+[7147] addDownloadable "ScriptingTcl.7z"
+[7147] addDownloadable "XmlExport.7z"
+[7147] addDownloadable "DbSqlite2.7z"
+[7147] addDownloadable "CsvImport.7z"
+[7147] addDownloadable "SqlExport.7z"
+[7147] addDownloadable "SqlFormatterSimple.7z"
+[7147] addDownloadable "ConfigMigration.7z"
+[7148] addDownloadable "qt.7z"
+[7148] addDownloadable "MultiEditorImage.7z"
+[7148] addDownloadable "DbAndroid.7z"
+[7148] addDownloadable "JsonExport.7z"
+[7148] addDownloadable "SqlEnterpriseFormatter.7z"
+************************************* Invoked: qua mai 22 12:19:35 2019
+[0] Operations sanity check succeeded.
+[6098] addDownloadable "DbAndroid.7z"
+[6099] addDownloadable "CsvExport.7z"
+[6099] addDownloadable "PdfExport.7z"
+[6099] addDownloadable "SqlEnterpriseFormatter.7z"
+[6099] addDownloadable "ScriptingTcl.7z"
+[6099] addDownloadable "sqlitestudio.7z"
+[6099] addDownloadable "DbSqliteSystemData.7z"
+[6099] addDownloadable "HtmlExport.7z"
+[6100] addDownloadable "CsvImport.7z"
+[6100] addDownloadable "qt.7z"
+[6100] addDownloadable "ConfigMigration.7z"
+[6100] addDownloadable "DbSqliteCipher.7z"
+[6100] addDownloadable "DbSqliteWx.7z"
+[6100] addDownloadable "JsonExport.7z"
+[6100] addDownloadable "XmlExport.7z"
+[6100] addDownloadable "DbSqlite2.7z"
+[6101] addDownloadable "SqlFormatterSimple.7z"
+[6101] addDownloadable "RegExpImport.7z"
+[6101] addDownloadable "SqlExport.7z"
+[6101] addDownloadable "MultiEditorImage.7z"
+[6101] addDownloadable "Printing.7z"
+************************************* Invoked: qua jan 23 01:46:10 2013
+[0] Operations sanity check succeeded.
+[3471] SSL error: "The certificate is not yet valid"
+[3471] SSL error: "The certificate is not yet valid"
+[3472] Network error while downloading 'https://sqlitestudio.pl/update-repo/windows/Updates.xml?541014304': SSL handshake failed.
+[3475] Cannot retrieve remote tree No package sources set for this application..
+************************************* Invoked: qua jan 23 01:54:50 2013
+[0] Operations sanity check succeeded.
+[1795] SSL error: "The certificate is not yet valid"
+[1795] SSL error: "The certificate is not yet valid"
+[1796] Network error while downloading 'https://sqlitestudio.pl/update-repo/windows/Updates.xml?136415775': SSL handshake failed.
+[1799] Cannot retrieve remote tree No package sources set for this application..
+************************************* Invoked: qua jan 23 00:01:33 2013
+[0] Operations sanity check succeeded.
+[2928] SSL error: "The certificate is not yet valid"
+[2928] SSL error: "The certificate is not yet valid"
+[2931] Network error while downloading 'https://sqlitestudio.pl/update-repo/windows/Updates.xml?69406860': SSL handshake failed.
+[2936] Cannot retrieve remote tree No package sources set for this application..
+************************************* Invoked: qua jan 23 01:02:33 2013
+[0] Operations sanity check succeeded.
+[3636] SSL error: "The certificate is not yet valid"
+[3636] SSL error: "The certificate is not yet valid"
+[3636] Network error while downloading 'https://sqlitestudio.pl/update-repo/windows/Updates.xml?71245356': SSL handshake failed.
+[3639] Cannot retrieve remote tree No package sources set for this application..
+************************************* Invoked: qua jan 23 02:38:37 2013
+[0] Operations sanity check succeeded.
+[2384] SSL error: "The certificate is not yet valid"
+[2384] SSL error: "The certificate is not yet valid"
+[2384] Network error while downloading 'https://sqlitestudio.pl/update-repo/windows/Updates.xml?295515024': SSL handshake failed.
+[2386] Cannot retrieve remote tree No package sources set for this application..
+************************************* Invoked: qua jan 23 00:04:39 2013
+[0] Operations sanity check succeeded.
+[2924] SSL error: "The certificate is not yet valid"
+[2924] SSL error: "The certificate is not yet valid"
+[2925] Network error while downloading 'https://sqlitestudio.pl/update-repo/windows/Updates.xml?598865868': SSL handshake failed.
+[2927] Cannot retrieve remote tree No package sources set for this application..
+************************************* Invoked: qua jan 23 00:05:18 2013
+[0] Operations sanity check succeeded.
+[2508] SSL error: "The certificate is not yet valid"
+[2508] SSL error: "The certificate is not yet valid"
+[2509] Network error while downloading 'https://sqlitestudio.pl/update-repo/windows/Updates.xml?144746486': SSL handshake failed.
+[2510] Cannot retrieve remote tree No package sources set for this application..
+************************************* Invoked: qui mai 23 18:47:08 2019
+[0] Operations sanity check succeeded.
+[14148] addDownloadable "JsonExport.7z"
+[14149] addDownloadable "DbSqliteCipher.7z"
+[14149] addDownloadable "SqlExport.7z"
+[14149] addDownloadable "DbSqliteSystemData.7z"
+[14149] addDownloadable "SqlFormatterSimple.7z"
+[14149] addDownloadable "SqlEnterpriseFormatter.7z"
+[14149] addDownloadable "DbSqlite2.7z"
+[14150] addDownloadable "CsvExport.7z"
+[14150] addDownloadable "DbAndroid.7z"
+[14150] addDownloadable "Printing.7z"
+[14151] addDownloadable "qt.7z"
+[14151] addDownloadable "CsvImport.7z"
+[14151] addDownloadable "ConfigMigration.7z"
+[14152] addDownloadable "DbSqliteWx.7z"
+[14152] addDownloadable "HtmlExport.7z"
+[14152] addDownloadable "ScriptingTcl.7z"
+[14152] addDownloadable "PdfExport.7z"
+[14153] addDownloadable "MultiEditorImage.7z"
+[14153] addDownloadable "RegExpImport.7z"
+[14153] addDownloadable "XmlExport.7z"
+[14153] addDownloadable "sqlitestudio.7z"
+************************************* Invoked: qui mai 23 22:45:55 2019
+[0] Operations sanity check succeeded.
+[18532] addDownloadable "SqlExport.7z"
+[18532] addDownloadable "DbAndroid.7z"
+[18533] addDownloadable "DbSqliteCipher.7z"
+[18533] addDownloadable "PdfExport.7z"
+[18533] addDownloadable "SqlEnterpriseFormatter.7z"
+[18533] addDownloadable "CsvExport.7z"
+[18533] addDownloadable "CsvImport.7z"
+[18533] addDownloadable "DbSqliteSystemData.7z"
+[18533] addDownloadable "XmlExport.7z"
+[18533] addDownloadable "sqlitestudio.7z"
+[18534] addDownloadable "ScriptingTcl.7z"
+[18534] addDownloadable "RegExpImport.7z"
+[18534] addDownloadable "JsonExport.7z"
+[18534] addDownloadable "MultiEditorImage.7z"
+[18534] addDownloadable "qt.7z"
+[18534] addDownloadable "HtmlExport.7z"
+[18534] addDownloadable "ConfigMigration.7z"
+[18534] addDownloadable "DbSqliteWx.7z"
+[18535] addDownloadable "Printing.7z"
+[18535] addDownloadable "DbSqlite2.7z"
+[18535] addDownloadable "SqlFormatterSimple.7z"
+************************************* Invoked: qua jan 23 01:03:57 2013
+[0] Operations sanity check succeeded.
+[2163] SSL error: "The certificate is not yet valid"
+[2163] SSL error: "The certificate is not yet valid"
+[2163] Network error while downloading 'https://sqlitestudio.pl/update-repo/windows/Updates.xml?494236122': SSL handshake failed.
+[2165] Cannot retrieve remote tree No package sources set for this application..
+************************************* Invoked: qua jan 23 00:03:24 2013
+[0] Operations sanity check succeeded.
+[126] Network error while downloading 'http://sqlitestudio.pl/update-repo/windows//Updates.xml?662546064': Host sqlitestudio.pl not found.
+[129] Cannot retrieve remote tree No package sources set for this application..
+************************************* Invoked: qua jan 23 00:03:11 2013
+[0] Operations sanity check succeeded.
+[108] Network error while downloading 'http://sqlitestudio.pl/update-repo/windows//Updates.xml?14493312': Host sqlitestudio.pl not found.
+[111] Cannot retrieve remote tree No package sources set for this application..
+************************************* Invoked: dom mai 26 08:39:38 2019
+[0] Operations sanity check succeeded.
+[4500] addDownloadable "CsvImport.7z"
+[4500] addDownloadable "XmlExport.7z"
+[4500] addDownloadable "PdfExport.7z"
+[4501] addDownloadable "DbSqliteCipher.7z"
+[4501] addDownloadable "qt.7z"
+[4502] addDownloadable "DbSqliteWx.7z"
+[4502] addDownloadable "MultiEditorImage.7z"
+[4502] addDownloadable "SqlFormatterSimple.7z"
+[4502] addDownloadable "DbSqliteSystemData.7z"
+[4502] addDownloadable "HtmlExport.7z"
+[4502] addDownloadable "SqlExport.7z"
+[4502] addDownloadable "Printing.7z"
+[4502] addDownloadable "DbAndroid.7z"
+[4502] addDownloadable "ScriptingTcl.7z"
+[4503] addDownloadable "ConfigMigration.7z"
+[4503] addDownloadable "SqlEnterpriseFormatter.7z"
+[4503] addDownloadable "CsvExport.7z"
+[4503] addDownloadable "DbSqlite2.7z"
+[4503] addDownloadable "JsonExport.7z"
+[4503] addDownloadable "RegExpImport.7z"
+[4503] addDownloadable "sqlitestudio.7z"
+************************************* Invoked: dom mai 26 16:14:10 2019
+[0] Operations sanity check succeeded.
+[8541] addDownloadable "DbAndroid.7z"
+[8542] addDownloadable "qt.7z"
+[8542] addDownloadable "sqlitestudio.7z"
+[8543] addDownloadable "Printing.7z"
+[8543] addDownloadable "JsonExport.7z"
+[8543] addDownloadable "SqlFormatterSimple.7z"
+[8543] addDownloadable "DbSqlite2.7z"
+[8543] addDownloadable "SqlEnterpriseFormatter.7z"
+[8543] addDownloadable "DbSqliteCipher.7z"
+[8543] addDownloadable "DbSqliteSystemData.7z"
+[8543] addDownloadable "XmlExport.7z"
+[8543] addDownloadable "CsvImport.7z"
+[8544] addDownloadable "ConfigMigration.7z"
+[8544] addDownloadable "MultiEditorImage.7z"
+[8544] addDownloadable "RegExpImport.7z"
+[8544] addDownloadable "SqlExport.7z"
+[8544] addDownloadable "DbSqliteWx.7z"
+[8544] addDownloadable "ScriptingTcl.7z"
+[8544] addDownloadable "PdfExport.7z"
+[8544] addDownloadable "HtmlExport.7z"
+[8545] addDownloadable "CsvExport.7z"
+************************************* Invoked: dom mai 26 16:18:20 2019
+[0] Operations sanity check succeeded.
+[4548] addDownloadable "DbSqliteSystemData.7z"
+[4548] addDownloadable "ConfigMigration.7z"
+[4548] addDownloadable "CsvImport.7z"
+[4549] addDownloadable "XmlExport.7z"
+[4549] addDownloadable "PdfExport.7z"
+[4549] addDownloadable "RegExpImport.7z"
+[4549] addDownloadable "SqlEnterpriseFormatter.7z"
+[4549] addDownloadable "SqlExport.7z"
+[4549] addDownloadable "sqlitestudio.7z"
+[4549] addDownloadable "DbSqliteWx.7z"
+[4549] addDownloadable "CsvExport.7z"
+[4550] addDownloadable "HtmlExport.7z"
+[4550] addDownloadable "DbAndroid.7z"
+[4550] addDownloadable "ScriptingTcl.7z"
+[4550] addDownloadable "MultiEditorImage.7z"
+[4550] addDownloadable "SqlFormatterSimple.7z"
+[4550] addDownloadable "qt.7z"
+[4550] addDownloadable "DbSqliteCipher.7z"
+[4550] addDownloadable "Printing.7z"
+[4550] addDownloadable "JsonExport.7z"
+[4551] addDownloadable "DbSqlite2.7z"
+************************************* Invoked: dom mai 26 17:48:51 2019
+[0] Operations sanity check succeeded.
+[4715] addDownloadable "DbSqliteWx.7z"
+[4715] addDownloadable "DbAndroid.7z"
+[4715] addDownloadable "sqlitestudio.7z"
+[4715] addDownloadable "CsvImport.7z"
+[4716] addDownloadable "ConfigMigration.7z"
+[4716] addDownloadable "SqlExport.7z"
+[4716] addDownloadable "CsvExport.7z"
+[4716] addDownloadable "JsonExport.7z"
+[4716] addDownloadable "ScriptingTcl.7z"
+[4716] addDownloadable "PdfExport.7z"
+[4716] addDownloadable "SqlFormatterSimple.7z"
+[4716] addDownloadable "DbSqliteSystemData.7z"
+[4717] addDownloadable "qt.7z"
+[4717] addDownloadable "XmlExport.7z"
+[4718] addDownloadable "DbSqlite2.7z"
+[4718] addDownloadable "SqlEnterpriseFormatter.7z"
+[4718] addDownloadable "RegExpImport.7z"
+[4718] addDownloadable "Printing.7z"
+[4718] addDownloadable "DbSqliteCipher.7z"
+[4718] addDownloadable "HtmlExport.7z"
+[4718] addDownloadable "MultiEditorImage.7z"
+************************************* Invoked: qua jan 23 01:04:48 2013
+[0] Operations sanity check succeeded.
+[1600] SSL error: "The certificate is not yet valid"
+[1600] SSL error: "The certificate is not yet valid"
+[1601] Network error while downloading 'https://sqlitestudio.pl/update-repo/windows/Updates.xml?25415312': SSL handshake failed.
+[1604] Cannot retrieve remote tree No package sources set for this application..
+************************************* Invoked: qua jan 23 00:24:13 2013
+[0] Operations sanity check succeeded.
+[3941] SSL error: "The certificate is not yet valid"
+[3941] SSL error: "The certificate is not yet valid"
+[3942] Network error while downloading 'https://sqlitestudio.pl/update-repo/windows/Updates.xml?128338496': SSL handshake failed.
+[3944] Cannot retrieve remote tree No package sources set for this application..
+************************************* Invoked: qua jan 23 01:06:49 2013
+[0] Operations sanity check succeeded.
+[37544] SSL error: "The certificate is not yet valid"
+[37544] SSL error: "The certificate is not yet valid"
+[37544] Network error while downloading 'https://sqlitestudio.pl/update-repo/windows/Updates.xml?7313670': SSL handshake failed.
+[37547] Cannot retrieve remote tree No package sources set for this application..
+************************************* Invoked: qua jan 23 01:07:09 2013
+[0] Operations sanity check succeeded.
+[24160] Network error while downloading 'http://sqlitestudio.pl/update-repo/windows//Updates.xml?296791260': Host sqlitestudio.pl not found.
+[24163] Cannot retrieve remote tree No package sources set for this application..
+************************************* Invoked: qua jan 23 00:26:06 2013
+[0] Operations sanity check succeeded.
+[2532] SSL error: "The certificate is not yet valid"
+[2532] SSL error: "The certificate is not yet valid"
+[2533] Network error while downloading 'https://sqlitestudio.pl/update-repo/windows/Updates.xml?22108788': SSL handshake failed.
+[2535] Cannot retrieve remote tree No package sources set for this application..
+************************************* Invoked: qua jan 23 00:44:04 2013
+[0] Operations sanity check succeeded.
+[2239] SSL error: "The certificate is not yet valid"
+[2239] SSL error: "The certificate is not yet valid"
+[2239] Network error while downloading 'https://sqlitestudio.pl/update-repo/windows/Updates.xml?222105969': SSL handshake failed.
+[2242] Cannot retrieve remote tree No package sources set for this application..
+************************************* Invoked: qua jan 23 00:04:21 2013
+[0] Operations sanity check succeeded.
+[3437] SSL error: "The certificate is not yet valid"
+[3437] SSL error: "The certificate is not yet valid"
+[3437] Network error while downloading 'https://sqlitestudio.pl/update-repo/windows/Updates.xml?621609228': SSL handshake failed.
+[3441] Cannot retrieve remote tree No package sources set for this application..
+************************************* Invoked: qua jan 23 00:54:35 2013
+[0] Operations sanity check succeeded.
+[8375] SSL error: "The certificate is not yet valid"
+[8375] SSL error: "The certificate is not yet valid"
+[8375] Network error while downloading 'https://sqlitestudio.pl/update-repo/windows/Updates.xml?402638860': SSL handshake failed.
+[8377] Cannot retrieve remote tree No package sources set for this application..
+************************************* Invoked: qua jan 23 00:18:24 2013
+[0] Operations sanity check succeeded.
+[3159] SSL error: "The certificate is not yet valid"
+[3159] SSL error: "The certificate is not yet valid"
+[3159] Network error while downloading 'https://sqlitestudio.pl/update-repo/windows/Updates.xml?294538648': SSL handshake failed.
+[3162] Cannot retrieve remote tree No package sources set for this application..
+************************************* Invoked: qua jan 23 00:09:13 2013
+[0] Operations sanity check succeeded.
+[2554] SSL error: "The certificate is not yet valid"
+[2554] SSL error: "The certificate is not yet valid"
+[2554] Network error while downloading 'https://sqlitestudio.pl/update-repo/windows/Updates.xml?204851472': SSL handshake failed.
+[2557] Cannot retrieve remote tree No package sources set for this application..
+************************************* Invoked: qua jan 23 00:27:48 2013
+[0] Operations sanity check succeeded.
+[2813] SSL error: "The certificate is not yet valid"
+[2813] SSL error: "The certificate is not yet valid"
+[2813] Network error while downloading 'https://sqlitestudio.pl/update-repo/windows/Updates.xml?6631671': SSL handshake failed.
+[2816] Cannot retrieve remote tree No package sources set for this application..
+************************************* Invoked: qua jan 23 01:19:56 2013
+[0] Operations sanity check succeeded.
+[2428] SSL error: "The certificate is not yet valid"
+[2428] SSL error: "The certificate is not yet valid"
+[2429] Network error while downloading 'https://sqlitestudio.pl/update-repo/windows/Updates.xml?556954384': SSL handshake failed.
+[2431] Cannot retrieve remote tree No package sources set for this application..
+************************************* Invoked: qua mai 29 09:49:49 2019
+[0] Operations sanity check succeeded.
+[6903] addDownloadable "RegExpImport.7z"
+[6903] addDownloadable "SqlFormatterSimple.7z"
+[6903] addDownloadable "MultiEditorImage.7z"
+[6903] addDownloadable "ScriptingTcl.7z"
+[6903] addDownloadable "SqlEnterpriseFormatter.7z"
+[6903] addDownloadable "PdfExport.7z"
+[6904] addDownloadable "CsvImport.7z"
+[6904] addDownloadable "JsonExport.7z"
+[6904] addDownloadable "HtmlExport.7z"
+[6904] addDownloadable "CsvExport.7z"
+[6905] addDownloadable "qt.7z"
+[6905] addDownloadable "DbSqlite2.7z"
+[6905] addDownloadable "DbSqliteCipher.7z"
+[6906] addDownloadable "XmlExport.7z"
+[6906] addDownloadable "sqlitestudio.7z"
+[6906] addDownloadable "DbSqliteSystemData.7z"
+[6906] addDownloadable "DbAndroid.7z"
+[6907] addDownloadable "Printing.7z"
+[6907] addDownloadable "SqlExport.7z"
+[6907] addDownloadable "ConfigMigration.7z"
+[6907] addDownloadable "DbSqliteWx.7z"
+************************************* Invoked: qua mai 29 10:29:53 2019
+[0] Operations sanity check succeeded.
+[13351] addDownloadable "CsvImport.7z"
+[13351] addDownloadable "DbSqliteSystemData.7z"
+[13351] addDownloadable "SqlEnterpriseFormatter.7z"
+[13352] addDownloadable "DbSqliteWx.7z"
+[13352] addDownloadable "MultiEditorImage.7z"
+[13352] addDownloadable "DbSqliteCipher.7z"
+[13352] addDownloadable "Printing.7z"
+[13352] addDownloadable "HtmlExport.7z"
+[13352] addDownloadable "RegExpImport.7z"
+[13352] addDownloadable "qt.7z"
+[13352] addDownloadable "XmlExport.7z"
+[13353] addDownloadable "DbAndroid.7z"
+[13353] addDownloadable "SqlExport.7z"
+[13353] addDownloadable "SqlFormatterSimple.7z"
+[13353] addDownloadable "DbSqlite2.7z"
+[13353] addDownloadable "JsonExport.7z"
+[13353] addDownloadable "CsvExport.7z"
+[13353] addDownloadable "ScriptingTcl.7z"
+[13353] addDownloadable "PdfExport.7z"
+[13353] addDownloadable "ConfigMigration.7z"
+[13354] addDownloadable "sqlitestudio.7z"
+************************************* Invoked: qua jan 23 01:33:19 2013
+[0] Operations sanity check succeeded.
+[205] Network error while downloading 'http://sqlitestudio.pl/update-repo/windows//Updates.xml?219809735': Host sqlitestudio.pl not found.
+[208] Cannot retrieve remote tree No package sources set for this application..
+************************************* Invoked: qua jan 23 01:46:22 2013
+[0] Operations sanity check succeeded.
+[24960] SSL error: "The certificate is not yet valid"
+[24960] SSL error: "The certificate is not yet valid"
+[24960] Network error while downloading 'https://sqlitestudio.pl/update-repo/windows/Updates.xml?600938360': SSL handshake failed.
+[24962] Cannot retrieve remote tree No package sources set for this application..
+************************************* Invoked: qua jan 23 01:56:07 2013
+[0] Operations sanity check succeeded.
+[9188] SSL error: "The certificate is not yet valid"
+[9188] SSL error: "The certificate is not yet valid"
+[9188] Network error while downloading 'https://sqlitestudio.pl/update-repo/windows/Updates.xml?19333580': SSL handshake failed.
+[9190] Cannot retrieve remote tree No package sources set for this application..
+************************************* Invoked: qua jan 23 02:41:51 2013
+[0] Operations sanity check succeeded.
+[5598] SSL error: "The certificate is not yet valid"
+[5598] SSL error: "The certificate is not yet valid"
+[5598] Network error while downloading 'https://sqlitestudio.pl/update-repo/windows/Updates.xml?26684328': SSL handshake failed.
+[5599] Cannot retrieve remote tree No package sources set for this application..
+************************************* Invoked: qua jan 23 02:43:33 2013
+[0] Operations sanity check succeeded.
+[2073] SSL error: "The certificate is not yet valid"
+[2073] SSL error: "The certificate is not yet valid"
+[2074] Network error while downloading 'https://sqlitestudio.pl/update-repo/windows/Updates.xml?46226146': SSL handshake failed.
+[2077] Cannot retrieve remote tree No package sources set for this application..

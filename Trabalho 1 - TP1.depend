@@ -1,0 +1,949 @@
+# depslib dependency file v1.0
+1358910518 source:e:\alexandre\trabalho 1 - tp1\04 04 19\entidades.cpp
+	"Entidades.h"
+
+1358912580 e:\alexandre\trabalho 1 - tp1\04 04 19\entidades.h
+	"Dominio.h"
+
+1358914027 source:e:\alexandre\trabalho 1 - tp1\04 04 19\dominio.cpp
+	"Dominio.h"
+	<iostream>
+	<string.h>
+
+1358912181 e:\alexandre\trabalho 1 - tp1\04 04 19\dominio.h
+	<stdexcept>
+
+1358912977 source:e:\alexandre\trabalho 1 - tp1\04 04 19\teste.cpp
+	"Teste.h"
+	"Entidades.h"
+	"Dominio.h"
+	<iostream>
+	<string.h>
+
+1358912796 e:\alexandre\trabalho 1 - tp1\04 04 19\teste.h
+	"Dominio.h"
+
+1358906794 source:e:\alexandre\trabalho 1 - tp1\11 04 19\dominio.cpp
+	"Dominio.h"
+	<iostream>
+	<string.h>
+
+1358910164 e:\alexandre\trabalho 1 - tp1\11 04 19\dominio.h
+	<stdexcept>
+
+1358910914 source:e:\alexandre\trabalho 1 - tp1\11 04 19\entidades.cpp
+	"Entidades.h"
+
+1358910206 e:\alexandre\trabalho 1 - tp1\11 04 19\entidades.h
+	"Dominio.h"
+
+1358912235 source:e:\alexandre\trabalho 1 - tp1\11 04 19\teste.cpp
+	"Teste.h"
+	"Entidades.h"
+	"Dominio.h"
+	<iostream>
+	<string.h>
+
+1358915539 e:\alexandre\trabalho 1 - tp1\11 04 19\teste.h
+	"Dominio.h"
+
+1358910914 source:e:\alexandre\trabalho 1 - tp1\16 04 19 - cópia\entidades.cpp
+	"Entidades.h"
+
+1358910206 e:\alexandre\trabalho 1 - tp1\16 04 19 - cópia\entidades.h
+	"Dominio.h"
+
+1358911398 e:\alexandre\trabalho 1 - tp1\16 04 19 - cópia\dominio.h
+	<stdexcept>
+
+1358911104 source:e:\alexandre\trabalho 1 - tp1\16 04 19 - cópia\dominio.cpp
+	"Dominio.h"
+	<iostream>
+	<string.h>
+
+1358911302 source:e:\alexandre\trabalho 1 - tp1\16 04 19 - cópia\teste.cpp
+	"Teste.h"
+	"Entidades.h"
+	"Dominio.h"
+	<iostream>
+	<string.h>
+
+1358909929 e:\alexandre\trabalho 1 - tp1\16 04 19 - cópia\teste.h
+	"Dominio.h"
+
+1358907603 source:e:\alexandre\trabalho 1 - tp1\16 04 19\dominio.cpp
+	"Dominio.h"
+	<iostream>
+	<string.h>
+
+1358908594 e:\alexandre\trabalho 1 - tp1\16 04 19\dominio.h
+	<stdexcept>
+
+1358910914 source:e:\alexandre\trabalho 1 - tp1\16 04 19\entidades.cpp
+	"Entidades.h"
+
+1358911465 e:\alexandre\trabalho 1 - tp1\16 04 19\entidades.h
+	"Dominio.h"
+	"string.h"
+
+1555509630 source:e:\alexandre\trabalho 1 - tp1\17 04 19\dominio.cpp
+	"Dominio.h"
+	<iostream>
+	<string.h>
+
+1555509892 e:\alexandre\trabalho 1 - tp1\17 04 19\dominio.h
+	<stdexcept>
+
+1358907314 source:e:\alexandre\trabalho 1 - tp1\17 04 19\entidades.cpp
+	"Entidades.h"
+
+1555510960 e:\alexandre\trabalho 1 - tp1\17 04 19\entidades.h
+	"Dominio.h"
+	"string.h"
+
+1358911326 source:e:\alexandre\trabalho 1 - tp1\17 04 19\teste.cpp
+	"Teste.h"
+	"Entidades.h"
+	"Dominio.h"
+	<iostream>
+	<string.h>
+
+1555510439 e:\alexandre\trabalho 1 - tp1\17 04 19\teste.h
+	"Dominio.h"
+
+1358911168 source:e:\alexandre\trabalho 1 - tp1\17 04 19\main.cpp
+	"Teste.h"
+	<iostream>
+
+1556209196 source:e:\alexandre\trabalho 1 - tp1\18 04 19\dominio.cpp
+	"Dominio.h"
+	<iostream>
+	<string.h>
+
+1556211144 e:\alexandre\trabalho 1 - tp1\18 04 19\dominio.h
+	<stdexcept>
+
+1556211001 source:e:\alexandre\trabalho 1 - tp1\18 04 19\main.cpp
+	"Teste.h"
+	<iostream>
+
+1556211159 e:\alexandre\trabalho 1 - tp1\18 04 19\teste.h
+	"Dominio.h"
+
+1556210481 source:e:\alexandre\trabalho 1 - tp1\18 04 19\teste.cpp
+	"Teste.h"
+	"Entidades.h"
+	"Dominio.h"
+	<iostream>
+	<string.h>
+
+1555507360 e:\alexandre\trabalho 1 - tp1\18 04 19\entidades.h
+	"Dominio.h"
+	"string.h"
+
+1556209338 source:e:\alexandre\trabalho 1 - tp1\18 04 19\entidades.cpp
+	"Entidades.h"
+
+1358911916 source:e:\alexandre\trabalho 1 - tp1\27 04 19 lucas\dominio.cpp
+	"Dominio.h"
+	<iostream>
+	<string.h>
+
+1358911343 e:\alexandre\trabalho 1 - tp1\27 04 19 lucas\dominio.h
+	<stdexcept>
+
+1556337302 source:e:\alexandre\trabalho 1 - tp1\27 04 19 lucas\entidades.cpp
+	"Entidades.h"
+
+1358909287 e:\alexandre\trabalho 1 - tp1\27 04 19 lucas\entidades.h
+	"Dominio.h"
+	"string.h"
+
+1358909210 source:e:\alexandre\trabalho 1 - tp1\27 04 19 lucas\main.cpp
+	"Teste.h"
+	<iostream>
+
+1358915592 e:\alexandre\trabalho 1 - tp1\27 04 19 lucas\teste.h
+	"Dominio.h"
+	"Entidades.h"
+
+1358909397 source:e:\alexandre\trabalho 1 - tp1\27 04 19 lucas\teste.cpp
+	"Teste.h"
+	"Entidades.h"
+	"Dominio.h"
+	<iostream>
+	<string.h>
+
+1358911916 source:e:\alexandre\trabalho 1 - tp1\30 04 19\dominio.cpp
+	"Dominio.h"
+	<iostream>
+	<string.h>
+
+1358911343 e:\alexandre\trabalho 1 - tp1\30 04 19\dominio.h
+	<stdexcept>
+
+1556340902 source:e:\alexandre\trabalho 1 - tp1\30 04 19\entidades.cpp
+	"Entidades.h"
+
+1358908510 e:\alexandre\trabalho 1 - tp1\30 04 19\entidades.h
+	"Dominio.h"
+	"string.h"
+
+1358909411 source:e:\alexandre\trabalho 1 - tp1\30 04 19\main.cpp
+	"Teste.h"
+	<iostream>
+
+1358915592 e:\alexandre\trabalho 1 - tp1\30 04 19\teste.h
+	"Dominio.h"
+	"Entidades.h"
+
+1358909397 source:e:\alexandre\trabalho 1 - tp1\30 04 19\teste.cpp
+	"Teste.h"
+	"Entidades.h"
+	"Dominio.h"
+	<iostream>
+	<string.h>
+
+1358908316 source:e:\alexandre\trabalho 1 - tp1\17  02 05 19\dominio.cpp
+	"Dominio.h"
+	<iostream>
+	<string.h>
+
+1358907743 e:\alexandre\trabalho 1 - tp1\17  02 05 19\dominio.h
+	<stdexcept>
+
+1556337302 source:e:\alexandre\trabalho 1 - tp1\17  02 05 19\entidades.cpp
+	"Entidades.h"
+
+1556804260 e:\alexandre\trabalho 1 - tp1\17  02 05 19\entidades.h
+	"Dominio.h"
+	"string.h"
+
+1358905811 source:e:\alexandre\trabalho 1 - tp1\17  02 05 19\main.cpp
+	"Teste.h"
+	<iostream>
+
+1358911992 e:\alexandre\trabalho 1 - tp1\17  02 05 19\teste.h
+	"Dominio.h"
+	"Entidades.h"
+
+1556804484 source:e:\alexandre\trabalho 1 - tp1\17  02 05 19\servico.cpp
+	"Servico.h"
+
+1556807545 e:\alexandre\trabalho 1 - tp1\17  02 05 19\servico.h
+	"Entidades.h"
+	"Dominio.h"
+	"Interfaces.h"
+	"Apresentacao.h"
+
+1556804389 source:e:\alexandre\trabalho 1 - tp1\17  02 05 19\teste.cpp
+	"Teste.h"
+	"Entidades.h"
+	"Dominio.h"
+	<iostream>
+	<string.h>
+
+1556804440 source:e:\alexandre\trabalho 1 - tp1\17  02 05 19\apresentacao.cpp
+	"Apresentacao.h"
+
+1556814077 e:\alexandre\trabalho 1 - tp1\17  02 05 19\apresentacao.h
+	"Entidades.h"
+	"Dominio.h"
+	"Interfaces.h"
+
+1556805082 e:\alexandre\trabalho 1 - tp1\17  02 05 19\interfaces.h
+	"Dominio.h"
+	"Entidades.h"
+
+1556808040 source:e:\alexandre\trabalho 1 - tp1\18  08 05 19\apresentacao.cpp
+	"Apresentacao.h"
+
+1358910647 e:\alexandre\trabalho 1 - tp1\18  08 05 19\apresentacao.h
+	"Entidades.h"
+	"Dominio.h"
+	"Interfaces.h"
+
+1556807860 e:\alexandre\trabalho 1 - tp1\18  08 05 19\entidades.h
+	"Dominio.h"
+	"string.h"
+
+1358911343 e:\alexandre\trabalho 1 - tp1\18  08 05 19\dominio.h
+	<stdexcept>
+
+1358910257 e:\alexandre\trabalho 1 - tp1\18  08 05 19\interfaces.h
+	"Dominio.h"
+	"Entidades.h"
+
+1358911916 source:e:\alexandre\trabalho 1 - tp1\18  08 05 19\dominio.cpp
+	"Dominio.h"
+	<iostream>
+	<string.h>
+
+1556340902 source:e:\alexandre\trabalho 1 - tp1\18  08 05 19\entidades.cpp
+	"Entidades.h"
+
+1358910764 source:e:\alexandre\trabalho 1 - tp1\18  08 05 19\main.cpp
+	"Dominio.h"
+	"Entidades.h"
+	"Interfaces.h"
+	"Apresentacao.h"
+	"Servico.h"
+	"Builders.h"
+	<iostream>
+
+1358915592 e:\alexandre\trabalho 1 - tp1\18  08 05 19\teste.h
+	"Dominio.h"
+	"Entidades.h"
+
+1358910560 source:e:\alexandre\trabalho 1 - tp1\18  08 05 19\servico.cpp
+	"Servico.h"
+
+1556811145 e:\alexandre\trabalho 1 - tp1\18  08 05 19\servico.h
+	"Entidades.h"
+	"Dominio.h"
+	"Interfaces.h"
+	"Apresentacao.h"
+
+1556807989 source:e:\alexandre\trabalho 1 - tp1\18  08 05 19\teste.cpp
+	"Teste.h"
+	"Entidades.h"
+	"Dominio.h"
+	<iostream>
+	<string.h>
+
+1358910933 e:\alexandre\trabalho 1 - tp1\18  08 05 19\builders.h
+	"Apresentacao.h"
+	"Servico.h"
+
+1358910896 source:e:\alexandre\trabalho 1 - tp1\18  08 05 19\builders.cpp
+	"Builders.h"
+
+1358906427 source:e:\alexandre\trabalho 1 - tp1\19  21 05 19\builders.cpp
+	"Builders.h"
+
+1358906374 e:\alexandre\trabalho 1 - tp1\19  21 05 19\builders.h
+	"Apresentacao.h"
+	"Servico.h"
+
+1358905239 e:\alexandre\trabalho 1 - tp1\19  21 05 19\apresentacao.h
+	"Dominio.h"
+	"Entidades.h"
+	"Interfaces.h"
+	"Servico.h"
+
+1556804260 e:\alexandre\trabalho 1 - tp1\19  21 05 19\entidades.h
+	"Dominio.h"
+	"string.h"
+
+1358907743 e:\alexandre\trabalho 1 - tp1\19  21 05 19\dominio.h
+	<stdexcept>
+
+1358904394 e:\alexandre\trabalho 1 - tp1\19  21 05 19\interfaces.h
+	"Dominio.h"
+	"Entidades.h"
+
+1558486397 e:\alexandre\trabalho 1 - tp1\19  21 05 19\servico.h
+	"Entidades.h"
+	"Dominio.h"
+	"Interfaces.h"
+	"Apresentacao.h"
+	"sqlite3.h"
+
+1558487793 source:e:\alexandre\trabalho 1 - tp1\19  21 05 19\main.cpp
+	<iostream>
+	"Dominio.h"
+	"Entidades.h"
+	"Interfaces.h"
+	"Apresentacao.h"
+	"Servico.h"
+	"Builders.h"
+	"BancoDados.h"
+
+1558487631 source:e:\alexandre\trabalho 1 - tp1\19  21 05 19\servico.cpp
+	"Servico.h"
+	"BancoDados.h"
+	"string.h"
+
+1358905239 source:e:\alexandre\trabalho 1 - tp1\19  21 05 19\apresentacao.cpp
+	"Apresentacao.h"
+
+1555448774 c:\sqlite\sqlite-autoconf-3280000\sqlite3.h
+	<stdarg.h>
+
+1358908316 source:e:\alexandre\trabalho 1 - tp1\19  21 05 19\dominio.cpp
+	"Dominio.h"
+	<iostream>
+	<string.h>
+
+1558486288 source:e:\alexandre\trabalho 1 - tp1\19  21 05 19\bancodados.cpp
+	<stdio.h>
+	"BancoDados.h"
+
+1558486280 e:\alexandre\trabalho 1 - tp1\19  21 05 19\bancodados.h
+	"sqlite3.h"
+
+1556337302 source:e:\alexandre\trabalho 1 - tp1\19  21 05 19\entidades.cpp
+	"Entidades.h"
+
+1556804389 source:e:\alexandre\trabalho 1 - tp1\19  21 05 19\teste.cpp
+	"Teste.h"
+	"Entidades.h"
+	"Dominio.h"
+	<iostream>
+	<string.h>
+
+1358911992 e:\alexandre\trabalho 1 - tp1\19  21 05 19\teste.h
+	"Dominio.h"
+	"Entidades.h"
+
+1558576740 source:e:\alexandre\trabalho 1 - tp1\20  22 05 19\apresentacao.cpp
+	<iostream>
+	"Apresentacao.h"
+
+1558570388 e:\alexandre\trabalho 1 - tp1\20  22 05 19\apresentacao.h
+	"Dominio.h"
+	"Entidades.h"
+	"Interfaces.h"
+	"Servico.h"
+
+1358907743 e:\alexandre\trabalho 1 - tp1\20  22 05 19\dominio.h
+	<stdexcept>
+
+1556804260 e:\alexandre\trabalho 1 - tp1\20  22 05 19\entidades.h
+	"Dominio.h"
+	"string.h"
+
+1558570388 e:\alexandre\trabalho 1 - tp1\20  22 05 19\interfaces.h
+	"Dominio.h"
+	"Entidades.h"
+
+1358912095 e:\alexandre\trabalho 1 - tp1\20  22 05 19\servico.h
+	"Entidades.h"
+	"Dominio.h"
+	"Interfaces.h"
+	"Apresentacao.h"
+	"sqlite3.h"
+
+1558576492 source:e:\alexandre\trabalho 1 - tp1\20  22 05 19\bancodados.cpp
+	<stdio.h>
+	"BancoDados.h"
+
+1558535598 e:\alexandre\trabalho 1 - tp1\20  22 05 19\bancodados.h
+	"sqlite3.h"
+
+1358906427 source:e:\alexandre\trabalho 1 - tp1\20  22 05 19\builders.cpp
+	"Builders.h"
+
+1358906374 e:\alexandre\trabalho 1 - tp1\20  22 05 19\builders.h
+	"Apresentacao.h"
+	"Servico.h"
+
+1358908316 source:e:\alexandre\trabalho 1 - tp1\20  22 05 19\dominio.cpp
+	"Dominio.h"
+	<iostream>
+	<string.h>
+
+1556337302 source:e:\alexandre\trabalho 1 - tp1\20  22 05 19\entidades.cpp
+	"Entidades.h"
+
+1358912113 source:e:\alexandre\trabalho 1 - tp1\20  22 05 19\main.cpp
+	<iostream>
+	"Dominio.h"
+	"Entidades.h"
+	"Interfaces.h"
+	"Apresentacao.h"
+	"Servico.h"
+	"Builders.h"
+	"BancoDados.h"
+
+1556804389 source:e:\alexandre\trabalho 1 - tp1\20  22 05 19\teste.cpp
+	"Teste.h"
+	"Entidades.h"
+	"Dominio.h"
+	<iostream>
+	<string.h>
+
+1358911992 e:\alexandre\trabalho 1 - tp1\20  22 05 19\teste.h
+	"Dominio.h"
+	"Entidades.h"
+
+1558577089 source:e:\alexandre\trabalho 1 - tp1\20  22 05 19\servico.cpp
+	<iostream>
+	<sstream>
+	<string>
+	"Servico.h"
+	"BancoDados.h"
+
+1358903031 source:e:\alexandre\trabalho 1 - tp1\21  23 05 19\apresentacao.cpp
+	<iostream>
+	"Apresentacao.h"
+
+1558570388 e:\alexandre\trabalho 1 - tp1\21  23 05 19\apresentacao.h
+	"Dominio.h"
+	"Entidades.h"
+	"Interfaces.h"
+	"Servico.h"
+
+1358907743 e:\alexandre\trabalho 1 - tp1\21  23 05 19\dominio.h
+	<stdexcept>
+
+1556804260 e:\alexandre\trabalho 1 - tp1\21  23 05 19\entidades.h
+	"Dominio.h"
+	"string.h"
+
+1558570388 e:\alexandre\trabalho 1 - tp1\21  23 05 19\interfaces.h
+	"Dominio.h"
+	"Entidades.h"
+
+1358912095 e:\alexandre\trabalho 1 - tp1\21  23 05 19\servico.h
+	"Entidades.h"
+	"Dominio.h"
+	"Interfaces.h"
+	"Apresentacao.h"
+	"sqlite3.h"
+
+1558576492 source:e:\alexandre\trabalho 1 - tp1\21  23 05 19\bancodados.cpp
+	<stdio.h>
+	"BancoDados.h"
+
+1358906991 e:\alexandre\trabalho 1 - tp1\21  23 05 19\bancodados.h
+	"sqlite3.h"
+
+1358906427 source:e:\alexandre\trabalho 1 - tp1\21  23 05 19\builders.cpp
+	"Builders.h"
+
+1358906374 e:\alexandre\trabalho 1 - tp1\21  23 05 19\builders.h
+	"Apresentacao.h"
+	"Servico.h"
+
+1358908316 source:e:\alexandre\trabalho 1 - tp1\21  23 05 19\dominio.cpp
+	"Dominio.h"
+	<iostream>
+	<string.h>
+
+1556337302 source:e:\alexandre\trabalho 1 - tp1\21  23 05 19\entidades.cpp
+	"Entidades.h"
+
+1358912113 source:e:\alexandre\trabalho 1 - tp1\21  23 05 19\main.cpp
+	<iostream>
+	"Dominio.h"
+	"Entidades.h"
+	"Interfaces.h"
+	"Apresentacao.h"
+	"Servico.h"
+	"Builders.h"
+	"BancoDados.h"
+
+1358912262 source:e:\alexandre\trabalho 1 - tp1\21  23 05 19\servico.cpp
+	<iostream>
+	<sstream>
+	<string>
+	"Servico.h"
+	"BancoDados.h"
+
+1556804389 source:e:\alexandre\trabalho 1 - tp1\21  23 05 19\teste.cpp
+	"Teste.h"
+	"Entidades.h"
+	"Dominio.h"
+	<iostream>
+	<string.h>
+
+1358911992 e:\alexandre\trabalho 1 - tp1\21  23 05 19\teste.h
+	"Dominio.h"
+	"Entidades.h"
+
+1358907261 source:e:\alexandre\trabalho 1 - tp1\22  25 05 19\apresentacao.cpp
+	<iostream>
+	"Apresentacao.h"
+
+1558921549 e:\alexandre\trabalho 1 - tp1\22  25 05 19\apresentacao.h
+	"Dominio.h"
+	"Entidades.h"
+	"Interfaces.h"
+	"Servico.h"
+
+1358911343 e:\alexandre\trabalho 1 - tp1\22  25 05 19\dominio.h
+	<stdexcept>
+
+1556807860 e:\alexandre\trabalho 1 - tp1\22  25 05 19\entidades.h
+	"Dominio.h"
+	"string.h"
+
+1358907053 e:\alexandre\trabalho 1 - tp1\22  25 05 19\interfaces.h
+	"Dominio.h"
+	"Entidades.h"
+
+1358907043 e:\alexandre\trabalho 1 - tp1\22  25 05 19\servico.h
+	"Entidades.h"
+	"Dominio.h"
+	"Interfaces.h"
+	"Apresentacao.h"
+	"sqlite3.h"
+
+1558580092 source:e:\alexandre\trabalho 1 - tp1\22  25 05 19\bancodados.cpp
+	<stdio.h>
+	"BancoDados.h"
+
+1558904241 e:\alexandre\trabalho 1 - tp1\22  25 05 19\bancodados.h
+	"sqlite3.h"
+
+1358910027 source:e:\alexandre\trabalho 1 - tp1\22  25 05 19\builders.cpp
+	"Builders.h"
+
+1358909974 e:\alexandre\trabalho 1 - tp1\22  25 05 19\builders.h
+	"Apresentacao.h"
+	"Servico.h"
+
+1358911916 source:e:\alexandre\trabalho 1 - tp1\22  25 05 19\dominio.cpp
+	"Dominio.h"
+	<iostream>
+	<string.h>
+
+1556340902 source:e:\alexandre\trabalho 1 - tp1\22  25 05 19\entidades.cpp
+	"Entidades.h"
+
+1358915713 source:e:\alexandre\trabalho 1 - tp1\22  25 05 19\main.cpp
+	<iostream>
+	"Dominio.h"
+	"Entidades.h"
+	"Interfaces.h"
+	"Apresentacao.h"
+	"Servico.h"
+	"Builders.h"
+	"BancoDados.h"
+
+1358909929 source:e:\alexandre\trabalho 1 - tp1\22  25 05 19\servico.cpp
+	<iostream>
+	<sstream>
+	<string>
+	"Servico.h"
+	"BancoDados.h"
+
+1556807989 source:e:\alexandre\trabalho 1 - tp1\22  25 05 19\teste.cpp
+	"Teste.h"
+	"Entidades.h"
+	"Dominio.h"
+	<iostream>
+	<string.h>
+
+1358915592 e:\alexandre\trabalho 1 - tp1\22  25 05 19\teste.h
+	"Dominio.h"
+	"Entidades.h"
+
+1559135210 source:e:\alexandre\trabalho 1 - tp1\23  28 05 19\apresentacao.cpp
+	<iostream>
+	"Apresentacao.h"
+
+1559134992 e:\alexandre\trabalho 1 - tp1\23  28 05 19\apresentacao.h
+	"Dominio.h"
+	"Entidades.h"
+	"Interfaces.h"
+	"Servico.h"
+
+1358907743 e:\alexandre\trabalho 1 - tp1\23  28 05 19\dominio.h
+	<stdexcept>
+
+1556804260 e:\alexandre\trabalho 1 - tp1\23  28 05 19\entidades.h
+	"Dominio.h"
+	"string.h"
+
+1559134994 e:\alexandre\trabalho 1 - tp1\23  28 05 19\interfaces.h
+	"Dominio.h"
+	"Entidades.h"
+
+1559091552 e:\alexandre\trabalho 1 - tp1\23  28 05 19\servico.h
+	"Entidades.h"
+	"Dominio.h"
+	"Interfaces.h"
+	"Apresentacao.h"
+	"sqlite3.h"
+
+1358906427 source:e:\alexandre\trabalho 1 - tp1\23  28 05 19\builders.cpp
+	"Builders.h"
+
+1358906374 e:\alexandre\trabalho 1 - tp1\23  28 05 19\builders.h
+	"Apresentacao.h"
+	"Servico.h"
+
+1358908316 source:e:\alexandre\trabalho 1 - tp1\23  28 05 19\dominio.cpp
+	"Dominio.h"
+	<iostream>
+	<string.h>
+
+1559132473 source:e:\alexandre\trabalho 1 - tp1\23  28 05 19\servico.cpp
+	<iostream>
+	<sstream>
+	<string>
+	"Servico.h"
+	"BancoDados.h"
+
+1558900641 e:\alexandre\trabalho 1 - tp1\23  28 05 19\bancodados.h
+	"sqlite3.h"
+
+1558576492 source:e:\alexandre\trabalho 1 - tp1\23  28 05 19\bancodados.cpp
+	<stdio.h>
+	"BancoDados.h"
+
+1556337302 source:e:\alexandre\trabalho 1 - tp1\23  28 05 19\entidades.cpp
+	"Entidades.h"
+
+1358912113 source:e:\alexandre\trabalho 1 - tp1\23  28 05 19\main.cpp
+	<iostream>
+	"Dominio.h"
+	"Entidades.h"
+	"Interfaces.h"
+	"Apresentacao.h"
+	"Servico.h"
+	"Builders.h"
+	"BancoDados.h"
+
+1556804389 source:e:\alexandre\trabalho 1 - tp1\23  28 05 19\teste.cpp
+	"Teste.h"
+	"Entidades.h"
+	"Dominio.h"
+	<iostream>
+	<string.h>
+
+1358911992 e:\alexandre\trabalho 1 - tp1\23  28 05 19\teste.h
+	"Dominio.h"
+	"Entidades.h"
+
+1559138810 source:e:\alexandre\trabalho 1 - tp1\24  06 06 19\apresentacao.cpp
+	<iostream>
+	"Apresentacao.h"
+
+1559138592 e:\alexandre\trabalho 1 - tp1\24  06 06 19\apresentacao.h
+	"Dominio.h"
+	"Entidades.h"
+	"Interfaces.h"
+	"Servico.h"
+
+1358911343 e:\alexandre\trabalho 1 - tp1\24  06 06 19\dominio.h
+	<stdexcept>
+
+1556807860 e:\alexandre\trabalho 1 - tp1\24  06 06 19\entidades.h
+	"Dominio.h"
+	"string.h"
+
+1559138594 e:\alexandre\trabalho 1 - tp1\24  06 06 19\interfaces.h
+	"Dominio.h"
+	"Entidades.h"
+
+1559095152 e:\alexandre\trabalho 1 - tp1\24  06 06 19\servico.h
+	"Entidades.h"
+	"Dominio.h"
+	"Interfaces.h"
+	"Apresentacao.h"
+	"sqlite3.h"
+
+1558580092 source:e:\alexandre\trabalho 1 - tp1\24  06 06 19\bancodados.cpp
+	<stdio.h>
+	"BancoDados.h"
+
+1558904241 e:\alexandre\trabalho 1 - tp1\24  06 06 19\bancodados.h
+	"sqlite3.h"
+
+1358910027 source:e:\alexandre\trabalho 1 - tp1\24  06 06 19\builders.cpp
+	"Builders.h"
+
+1358909974 e:\alexandre\trabalho 1 - tp1\24  06 06 19\builders.h
+	"Apresentacao.h"
+	"Servico.h"
+
+1358911916 source:e:\alexandre\trabalho 1 - tp1\24  06 06 19\dominio.cpp
+	"Dominio.h"
+	<iostream>
+	<string.h>
+
+1556340902 source:e:\alexandre\trabalho 1 - tp1\24  06 06 19\entidades.cpp
+	"Entidades.h"
+
+1358913205 source:e:\alexandre\trabalho 1 - tp1\24  06 06 19\main.cpp
+	<iostream>
+	"Dominio.h"
+	"Entidades.h"
+	"Interfaces.h"
+	"Apresentacao.h"
+	"Servico.h"
+	"Builders.h"
+	"BancoDados.h"
+
+1358914725 source:e:\alexandre\trabalho 1 - tp1\24  06 06 19\servico.cpp
+	<iostream>
+	<sstream>
+	<string>
+	"Servico.h"
+	"BancoDados.h"
+
+1556807989 source:e:\alexandre\trabalho 1 - tp1\24  06 06 19\teste.cpp
+	"Teste.h"
+	"Entidades.h"
+	"Dominio.h"
+	<iostream>
+	<string.h>
+
+1358915592 e:\alexandre\trabalho 1 - tp1\24  06 06 19\teste.h
+	"Dominio.h"
+	"Entidades.h"
+
+1358910027 source:e:\alexandre\trabalho 1 - tp1\25  08 06 19\builders.cpp
+	"Builders.h"
+
+1358909974 e:\alexandre\trabalho 1 - tp1\25  08 06 19\builders.h
+	"Apresentacao.h"
+	"Servico.h"
+
+1358911237 e:\alexandre\trabalho 1 - tp1\25  08 06 19\apresentacao.h
+	"Dominio.h"
+	"Entidades.h"
+	"Interfaces.h"
+	"Servico.h"
+	"validadores.h"
+
+1358911343 e:\alexandre\trabalho 1 - tp1\25  08 06 19\dominio.h
+	<stdexcept>
+
+1556807860 e:\alexandre\trabalho 1 - tp1\25  08 06 19\entidades.h
+	"Dominio.h"
+	"string.h"
+
+1559138594 e:\alexandre\trabalho 1 - tp1\25  08 06 19\interfaces.h
+	"Dominio.h"
+	"Entidades.h"
+
+1559095152 e:\alexandre\trabalho 1 - tp1\25  08 06 19\servico.h
+	"Entidades.h"
+	"Dominio.h"
+	"Interfaces.h"
+	"Apresentacao.h"
+	"sqlite3.h"
+
+1358915867 e:\alexandre\trabalho 1 - tp1\25  08 06 19\validadores.h
+	<iostream>
+	"Dominio.h"
+	"Entidades.h"
+
+1358918844 source:e:\alexandre\trabalho 1 - tp1\25  08 06 19\servico.cpp
+	<iostream>
+	<sstream>
+	<string>
+	"Servico.h"
+	"BancoDados.h"
+
+1558904241 e:\alexandre\trabalho 1 - tp1\25  08 06 19\bancodados.h
+	"sqlite3.h"
+
+1358915972 source:e:\alexandre\trabalho 1 - tp1\25  08 06 19\validadores.cpp
+	"validadores.h"
+
+1358918501 source:e:\alexandre\trabalho 1 - tp1\25  08 06 19\apresentacao.cpp
+	<iostream>
+	"Apresentacao.h"
+
+1358911916 source:e:\alexandre\trabalho 1 - tp1\25  08 06 19\dominio.cpp
+	"Dominio.h"
+	<iostream>
+	<string.h>
+
+1358913205 source:e:\alexandre\trabalho 1 - tp1\25  08 06 19\main.cpp
+	<iostream>
+	"Dominio.h"
+	"Entidades.h"
+	"Interfaces.h"
+	"Apresentacao.h"
+	"Servico.h"
+	"Builders.h"
+	"BancoDados.h"
+
+1561508280 source:e:\alexandre\trabalho 1 - tp1\26  11 06 19\apresentacao.cpp
+	<iostream>
+	"Apresentacao.h"
+	"BancoDados.h"
+
+1358907637 e:\alexandre\trabalho 1 - tp1\26  11 06 19\apresentacao.h
+	"Dominio.h"
+	"Entidades.h"
+	"Interfaces.h"
+	"Servico.h"
+	"validadores.h"
+
+1358907743 e:\alexandre\trabalho 1 - tp1\26  11 06 19\dominio.h
+	<stdexcept>
+
+1556804260 e:\alexandre\trabalho 1 - tp1\26  11 06 19\entidades.h
+	"Dominio.h"
+	"string.h"
+
+1358904608 e:\alexandre\trabalho 1 - tp1\26  11 06 19\interfaces.h
+	"Dominio.h"
+	"Entidades.h"
+	"BancoDados.h"
+
+1358905424 e:\alexandre\trabalho 1 - tp1\26  11 06 19\bancodados.h
+	"sqlite3.h"
+
+1358905579 e:\alexandre\trabalho 1 - tp1\26  11 06 19\servico.h
+	"Entidades.h"
+	"Dominio.h"
+	"Interfaces.h"
+	"Apresentacao.h"
+	"sqlite3.h"
+
+1358912267 e:\alexandre\trabalho 1 - tp1\26  11 06 19\validadores.h
+	<iostream>
+	"Dominio.h"
+	"Entidades.h"
+
+1358905367 source:e:\alexandre\trabalho 1 - tp1\26  11 06 19\bancodados.cpp
+	<stdio.h>
+	"BancoDados.h"
+
+1561520492 source:e:\alexandre\trabalho 1 - tp1\26  11 06 19\servico.cpp
+	<iostream>
+	<sstream>
+	<string>
+	"Servico.h"
+	"BancoDados.h"
+
+1555445174 e:\alexandre\trabalho 1 - tp1\26  11 06 19\sqlite\sqlite-autoconf-3280000\sqlite3.h
+	<stdarg.h>
+
+1358906427 source:e:\alexandre\trabalho 1 - tp1\26  11 06 19\builders.cpp
+	"Builders.h"
+
+1358906374 e:\alexandre\trabalho 1 - tp1\26  11 06 19\builders.h
+	"Apresentacao.h"
+	"Servico.h"
+
+1358908316 source:e:\alexandre\trabalho 1 - tp1\26  11 06 19\dominio.cpp
+	"Dominio.h"
+	<iostream>
+	<string.h>
+
+1556337302 source:e:\alexandre\trabalho 1 - tp1\26  11 06 19\entidades.cpp
+	"Entidades.h"
+
+1358909605 source:e:\alexandre\trabalho 1 - tp1\26  11 06 19\main.cpp
+	<iostream>
+	"Dominio.h"
+	"Entidades.h"
+	"Interfaces.h"
+	"Apresentacao.h"
+	"Servico.h"
+	"Builders.h"
+	"BancoDados.h"
+
+1556804389 source:e:\alexandre\trabalho 1 - tp1\26  11 06 19\teste.cpp
+	"Teste.h"
+	"Entidades.h"
+	"Dominio.h"
+	<iostream>
+	<string.h>
+
+1358911992 e:\alexandre\trabalho 1 - tp1\26  11 06 19\teste.h
+	"Dominio.h"
+	"Entidades.h"
+
+1358912372 source:e:\alexandre\trabalho 1 - tp1\26  11 06 19\validadores.cpp
+	"validadores.h"
+
